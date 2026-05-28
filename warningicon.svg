@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg1989" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 682.67 682.67">
+  <!-- Generator: Adobe Illustrator 29.5.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 141)  -->
+  <defs>
+    <style>
+        .st0, .st1 {
+            fill: none;
+        }
+
+        .st1 {
+            stroke-linecap: round;
+            stroke-linejoin: round;
+            stroke-width: 14px;
+        }
+
+        .st2 {
+            clip-path: url(#clippath);
+        }
+    </style>
+    <clipPath id="clippath">
+      <rect class="st0" width="682.67" height="682.67"/>
+    </clipPath>
+  </defs>
+  <g id="g1995">
+    <g id="g1997">
+      <g class="st2">
+        <g id="g1999">
+          <g id="g2005">
+            <path id="path2007" class="st1" d="M279.97,80.42L19.6,531.39c-27.27,47.24,6.82,106.29,61.37,106.29h520.74c54.55,0,88.64-59.05,61.37-106.29L402.7,80.42c-27.27-47.24-95.46-47.24-122.73,0Z"/>
+          </g>
+          <g id="g2009">
+            <path id="path2011" class="st1" d="M103.68,492.43L326.16,107.08c4.4-7.63,11.4-8.76,15.17-8.76s10.77,1.13,15.17,8.76l260.37,450.97c4.4,7.63,1.89,14.25,0,17.53-1.89,3.27-6.37,8.76-15.17,8.76H80.96c-8.8,0-13.28-5.49-15.17-8.76-1.89-3.28-4.4-9.91,0-17.53l17.89-30.99"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
